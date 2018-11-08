@@ -1,0 +1,11 @@
+img {
+	margin: 100px;
+	
+	
+}
+
+img:hover {
+    transform: scale(2, 2);
+    animation-duration: 1s;
+	animation-timing-function: ease-in;
+}
